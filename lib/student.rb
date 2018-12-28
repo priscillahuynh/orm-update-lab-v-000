@@ -42,4 +42,8 @@ class Student
   def self.create
     
   end
+
+  def self.update 
+    
+  end
 end
