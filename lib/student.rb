@@ -40,10 +40,10 @@ class Student
   end
 
   def self.create
-    
+
   end
 
-  def self.update 
-    
+  def self.update
+    sql = "UPDATE students SET name = ?, grade = ? WHERE id = ?"
   end
 end
